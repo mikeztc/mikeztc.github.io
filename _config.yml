@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
 
-  
+  avatar           : "/images/themes/profile.png"
   name             : "Tiancheng Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Algorithm Engineer"
