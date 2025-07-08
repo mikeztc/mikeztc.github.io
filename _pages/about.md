@@ -14,6 +14,8 @@ Curriculum Vitae
 ======
 <a href="files/TianchengZhangResume.pdf" target="_blank">Tiancheng Zhang CV</a>
 
+ avatar           : "/images/themes/ZTCP.png"
+
 
 Educational Background
 ======
